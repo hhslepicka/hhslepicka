@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Hello! I'm Hugo. Currently working as a software and controls engineer at SLAC National Accelerator Laboratory.
+Hello! I'm Hugo. Most recently I worked as a software and controls engineer at SLAC National Accelerator Laboratory.
 
 ## Projects
 Most of the time you can find me working on the following projects:
