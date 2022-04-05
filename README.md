@@ -1,14 +1,29 @@
-### Welcome! 👋
 
-Hello! I'm Hugo.
+![image](https://user-images.githubusercontent.com/8185425/161853956-ff1ba062-76cd-470b-934c-6225e7e5e95a.png)
 
-Most recently I worked as a software and controls engineer at SLAC National Accelerator Laboratory.
+# 👋 Welcome! Nice to meet you!
 
-I am currently working as:
-- Developer Evangelist for [BotCity - RPA for Developers](https://www.botcity.dev)
-- Controls Engineer Consultant for [Osprey Distributed Control Systems](https://ospreydcs.com/)
+Take a look around and let me know if you have questions or suggestions! I am always interested in collaborating in open-source projects.
 
-## Projects
+## `whoami`
+
+### 💻 Work
+
+I am very happy to be part of [BotCity](https://www.botcity.dev). 🤖
+
+At BotCity we are building a new approach for automation, and RPA in any system (desktop/web/legacy) leveraging computer vision and code.
+
+Feel free to ask me more about that! I would be glad to chat about automation for extended periods of time! 😄
+
+### 🌎 Hours
+
+I am most active for work related inquires from Monday to Friday, 8AM to 6PM Pacific Time.
+
+### 🗺 Location
+
+I am currently living in the Bay Area, California ⛅️ 🌁 🏖
+
+## I am currently working on
 Most of the time you can find me working on the following projects:
 
 <a href="https://github.com/botcity-dev/botcity-framework-core-python">
@@ -17,11 +32,12 @@ Most of the time you can find me working on the following projects:
 <a href="https://github.com/botcity-dev/botcity-framework-web-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=botcity-dev&repo=botcity-framework-web-python" />
 </a>
+
+## Previous Projects of Interest
 <a href="https://github.com/slaclab/lume">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slaclab&repo=lume" />
 </a>
 
-## Previous Projects of Interest
 <a href="https://github.com/slaclab/pydm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slaclab&repo=pydm" />
 </a>
@@ -31,7 +47,6 @@ Most of the time you can find me working on the following projects:
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">
 </a>
 
-
-## Coding and Interests
+## Misc.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhslepicka&layout=compact&hide_border=false&bg_color=353635&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF">
 
